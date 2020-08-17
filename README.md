@@ -1,5 +1,5 @@
 ## Two-Stage Generative Adversarial Networks for Document Image Binarization with Color Noise and Background Removal
-<img width="600" alt="Figure1" src="https://user-images.githubusercontent.com/57751687/90395881-8dae9800-e095-11ea-944e-ff69e2bc1de2.png">
+<img width="600" alt="Figure1" src="https://user-images.githubusercontent.com/57751687/90397507-3eb63200-e098-11ea-9b2a-1466e101494b.png">
 
 Abstract
 
