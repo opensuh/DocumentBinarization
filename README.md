@@ -260,3 +260,7 @@ cd dfg
 (In the case of Label)
 sh ./Label/predict_step2_5_fold.sh
 ```
+
+- Trained weights
+  - You can download trained weights from Dropbox. The link of the files as follows.
+  - [Link](https://www.dropbox.com/sh/vm9mvtsaek9620s/AAAtztL7a_Z-h6J4spd-Cpbua?dl=0)
