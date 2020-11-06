@@ -1,6 +1,9 @@
 ## Two-Stage Generative Adversarial Networks for Document Image Binarization with Color Noise and Background Removal
 <img width="600" alt="Figure1" src="https://user-images.githubusercontent.com/57751687/91412078-8b90ca00-e849-11ea-9e9b-1e5894e34bbe.png">
 
+A Pytorch implementation of Two-Stage Generative Adversarial Networks for Document Image Binarization described in the paper:
+* [Two-stage Generative Adversarial Networks for Document Image Binarization](https://arxiv.org/abs/2010.10103) : *submitted version*
+
 Abstract
 
 Document image enhancement and binarization methods are often used to improve the accuracy and efficiency of document image analysis tasks such as text recognition. Traditional non-machine-learning methods are constructed on low-level features in an unsupervised manner but have difficulty with binarization on documents with severely degraded backgrounds. Convolutional neural network (CNN)––based methods focus only on grayscale images and on local textual features. In this paper, we propose a two-stage color document image enhancement and binarization method using generative adversarial neural networks. In the first stage, four color-independent adversarial networks are trained to extract color foreground information from an input image for document image enhancement. In the second stage, two independent adversarial networks with global and local features are trained for image binarization of documents of variable size. For the adversarial neural networks, we formulate loss functions between a discriminator and generators having an encoder--decoder structure. Experimental results show that the proposed method achieves better performance than many classical and state-of-the-art algorithms over the Document Image Binarization Contest (DIBCO) datasets, the LRDE Document Binarization Dataset (LRDE DBD), and our shipping label image dataset.
