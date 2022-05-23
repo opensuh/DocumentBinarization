@@ -1,8 +1,9 @@
-## Two-Stage Generative Adversarial Networks for Document Image Binarization with Color Noise and Background Removal
+## Two-Stage Generative Adversarial Networks for Binarization of Color Document Images
 <img width="600" alt="Figure1" src="https://user-images.githubusercontent.com/57751687/91412078-8b90ca00-e849-11ea-9e9b-1e5894e34bbe.png">
 
 A Pytorch implementation of Two-Stage Generative Adversarial Networks for Document Image Binarization described in the paper:
-* [Two-stage Generative Adversarial Networks for Document Image Binarization](https://arxiv.org/abs/2010.10103) : *submitted version*
+* [Two-stage Generative Adversarial Networks for Document Image Binarization](https://arxiv.org/abs/2010.10103) : *arxiv version*
+* [Two-stage generative adversarial networks for binarization of color document images](https://www.sciencedirect.com/science/article/abs/pii/S0031320322002916#!) : *published version*
 
 Abstract
 
