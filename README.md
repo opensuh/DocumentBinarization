@@ -1,8 +1,9 @@
-## Two-Stage Generative Adversarial Networks for Document Image Binarization with Color Noise and Background Removal
+## Two-Stage Generative Adversarial Networks for Binarization of Color Document Images
 <img width="600" alt="Figure1" src="https://user-images.githubusercontent.com/57751687/91412078-8b90ca00-e849-11ea-9e9b-1e5894e34bbe.png">
 
 A Pytorch implementation of Two-Stage Generative Adversarial Networks for Document Image Binarization described in the paper:
-* [Two-stage Generative Adversarial Networks for Document Image Binarization](https://arxiv.org/abs/2010.10103) : *submitted version*
+* [Two-stage Generative Adversarial Networks for Document Image Binarization](https://arxiv.org/abs/2010.10103) : *arxiv version*
+* [Two-stage generative adversarial networks for binarization of color document images](https://www.sciencedirect.com/science/article/abs/pii/S0031320322002916#!) : *published version*
 
 Abstract
 
@@ -235,7 +236,7 @@ cd dfg
   - [PLM](http://amadi.univ-lr.fr/ICFHR2016_Contest/index.php/download-123)
   - [S-MS](http://tc11.cvc.uab.es/datasets/SMADI_1)
   - [LRDE-DBD](https://www.lrde.epita.fr/dload/olena/datasets/dbd/1.0/)
-  - [Label](https://www.kist-europe.de/portal/main/main.do)
+  - [Label](https://www.dropbox.com/sh/gqqugvclzltfldt/AACNELpHwTW-1bHLZzipxQWja?dl=0)
   
  - Patch per datasets
  ```bash
